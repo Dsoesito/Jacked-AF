@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Jacked-AF/static/css/main.cc664dfc.css",
+    "main.js": "/Jacked-AF/static/js/main.68213b32.js",
+    "static/js/787.0e073331.chunk.js": "/Jacked-AF/static/js/787.0e073331.chunk.js",
+    "static/media/gym.jpg": "/Jacked-AF/static/media/gym.62df4e72f404e13771f8.jpg",
+    "index.html": "/Jacked-AF/index.html",
+    "main.cc664dfc.css.map": "/Jacked-AF/static/css/main.cc664dfc.css.map",
+    "main.68213b32.js.map": "/Jacked-AF/static/js/main.68213b32.js.map",
+    "787.0e073331.chunk.js.map": "/Jacked-AF/static/js/787.0e073331.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cc664dfc.css",
+    "static/js/main.68213b32.js"
+  ]
+}
