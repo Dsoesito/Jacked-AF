@@ -1,6 +1,7 @@
 Hello! Welcome to JackedAF! This is a web app I made that to allow users to plan workouts! 💪
 
 App Link: https://dsoesito.github.io/Jacked-AF/
+** Feel free to view this app on your phone! It is mobile friendly**
 
 ## Features
 
@@ -20,13 +21,16 @@ The exercises are stored on Firebase and the app retrieves them when the page lo
 <img width="1710" alt="Screen Shot 2022-08-29 at 5 57 52 PM" src="https://user-images.githubusercontent.com/99083937/187306404-42e4110f-1e9c-4b34-ae75-3b3dacac828b.png">
 Home Page that greets users
 
+
 ### Exercise Drop Down Menus
 <img width="1710" alt="Screen Shot 2022-08-29 at 5 59 56 PM" src="https://user-images.githubusercontent.com/99083937/187306630-25ea68dd-9e44-4610-a6c4-46afe1d5bbcc.png">
 All Exercise categories have a drop down button to reveal exercises
 
+
 ### Workout Modal
 ![Screen Shot 2022-08-29 at 6 36 06 PM](https://user-images.githubusercontent.com/99083937/187310874-6013b841-0107-4bfd-b5b3-719bac23cdc0.png)
 Modal overlay that shows enitre work out and allows adjusments
+
 
 ## Thank you
 
